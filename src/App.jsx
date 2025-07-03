@@ -4,8 +4,7 @@ import Header from "./Components/Header"
 
 function App() {
   return (
-    <div className="bg-amber-50 min-h-screen">
-      <h1 className="text-4xl text-center text-gray-900">Hello Tailwind</h1>
+    <div className="bg-amber-50 ">
       <Header/>
       <Body/>
       <Footer/>
