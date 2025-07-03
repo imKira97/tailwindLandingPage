@@ -1,0 +1,22 @@
+# Dependency folders
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables (if you add any)
+.env
+.env.local
+.env.*.local
+
+# Tailwind cache (optional)
+.tailwind-cache/
