@@ -1,6 +1,7 @@
 import Body from "./Components/Body"
 import Footer from "./Components/Footer"
 import Header from "./Components/Header"
+import "./index.css"
 
 function App() {
   return (
