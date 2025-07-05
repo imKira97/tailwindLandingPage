@@ -20,7 +20,7 @@ const Header = () => {
     </div>
     <div className='lg:hidden'>
     <FaBars/>
-    </div>
+    </div> 
     </div>
   )
 }
